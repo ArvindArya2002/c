@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
 int main() {
-    cout<<"jatt boys";
+    cout<<"choudhar jaata ki chale ";
 return 0;
 }
